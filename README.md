@@ -32,4 +32,4 @@ Final Documentation Complete
 
 ![machines](https://user-images.githubusercontent.com/71106886/160641950-045baca7-f1a7-4dbd-9a54-79ab02851cf7.PNG)
 
-THIS IS STILL BEING WORKED ON. CHANGES WILL BE MADE DAILY 
+THIS IS STILL BEING WORKED ON. CHANGES WILL BE MADE DAILY.
