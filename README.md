@@ -21,7 +21,7 @@ Milestone 2
 - cumentation Updated
 
 
-
+Visit https://github.com/sidr-champlain/Final-Project-SYS265/wiki for more information
 
 
 
