@@ -4,6 +4,25 @@ Systems Administration 2: Final Group Project
 
 You and your team are going to build a medium-sized enterprise from scratch for a client over a period of some weeks. Your team will demonstrate your integration efforts to a client manager as part of user acceptance testing in a series of milestones.
 
+Milestones:
+
+Milestone 1 
+- Routing works (systems can talk to one another and route to the internet)
+- Domain Users are created
+- Domain Joined ws1, ws2
+- Redundant ADDS (this means that either can be down and that domain services are still provided)
+- Documentation Updated
+
+Milestone 2 
+- Redundant Linux DHCP works
+- Ansible Controller and nodes are configured
+- Util is domain joined
+- MT02 configured
+- cumentation Updated
+
+
+
+
 
 
 | All Project VMs | LAN IP | Description |
