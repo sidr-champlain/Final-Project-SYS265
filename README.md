@@ -9,7 +9,7 @@ Milestones:
 Milestone 1 
 - Routing works (systems can talk to one another and route to the internet)
 - Domain Users are created
-- Domain Joined ws1, ws2
+- Domain Joined W1, W2
 - Redundant ADDS (this means that either can be down and that domain services are still provided)
 - Documentation Updated
 
@@ -17,7 +17,7 @@ Milestone 2
 - Redundant Linux DHCP works
 - Ansible Controller and nodes are configured
 - Util is domain joined
-- MT02 configured
+- MGMT2 configured
 - cumentation Updated
 
 
