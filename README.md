@@ -18,7 +18,7 @@ Milestone 2
 - Ansible Controller and nodes are configured
 - Util is domain joined
 - MGMT2 configured
-- cumentation Updated
+- Dcumentation Updated
 
 
 Visit https://github.com/sidr-champlain/Final-Project-SYS265/wiki for more information
