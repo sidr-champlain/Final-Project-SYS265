@@ -21,7 +21,7 @@ Milestone 2
 - Dcumentation Updated
 
 
-Visit https://github.com/sidr-champlain/Final-Project-SYS265/wiki for more information
+Visit https://github.com/sidr-champlain/Final-Project-SYS265/wiki for the full build information
 
 
 
