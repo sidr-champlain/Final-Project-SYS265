@@ -15,10 +15,10 @@ Milestone 1
 
 Milestone 2 
 - Redundant Linux DHCP works
+- MGMT2 configured and domain joined
+- Util is configured and domain joined
 - Ansible Controller and nodes are configured
-- Util is domain joined
-- MGMT2 configured
-- Dcumentation Updated
+- Documentation Updated
 
 
 Visit https://github.com/sidr-champlain/Final-Project-SYS265/wiki for the full build information
