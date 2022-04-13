@@ -20,6 +20,14 @@ Milestone 2
 - Ansible Controller and nodes are configured
 - Documentation Updated
 
+Final Project 
+- Docker service is deployed
+- DFS based profiles
+- Ansible Services
+- Ansible Users
+- Group Policy completed
+- Final Documentation Complete
+
 
 Visit https://github.com/sidr-champlain/Final-Project-SYS265/wiki for the full build information
 
@@ -37,3 +45,4 @@ Visit https://github.com/sidr-champlain/Final-Project-SYS265/wiki for the full b
 | DFS1, DFS2| Based on W1 and W2    | Distributed File System that Stores Domain User Profiles & Desktop   |
 | util | 172.16.1.15     | CentOS 7 and Domain Joined   |
 
+![Machines](https://user-images.githubusercontent.com/71106886/163200083-fa71b471-7306-47dc-9cd9-48c6f8bbfa57.PNG)
