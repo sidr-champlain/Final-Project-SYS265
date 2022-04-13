@@ -2,8 +2,8 @@
   yum:
     name: httpd
     state: latest
-    
-    
+
+
 - name: Download the nginx package only
   yum:
     name:
