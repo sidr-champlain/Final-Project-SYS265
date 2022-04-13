@@ -1,0 +1,5 @@
+- name: Install apache
+  apt:
+    name: apache2
+    upgrade: yes
+    state: present

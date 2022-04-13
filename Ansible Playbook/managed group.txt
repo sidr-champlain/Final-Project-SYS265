@@ -1,0 +1,4 @@
+- name: Add managed_by user
+  community.windows.win_domain_group:
+    name: Ansible Users
+    managed_by: Domain Admins
