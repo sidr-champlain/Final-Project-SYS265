@@ -1,7 +1,7 @@
 - name: Ensure user jerry is created and uses custom credentials to create the user
   community.windows.win_domain_user:
-    name: Jerry
-    firstname: Jerry
+    name: jerry
+    firstname: jerry
     password: exampleaccount0
     state: present
     domain_username: group.local\jerry-basic
