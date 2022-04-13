@@ -21,10 +21,11 @@ Milestone 2
 - Documentation Updated
 
 Final Project 
+
+- Ansible Users
+- Ansible Services
 - Docker service is deployed
 - DFS based profiles
-- Ansible Services
-- Ansible Users
 - Group Policy completed
 - Final Documentation Complete
 
