@@ -1,0 +1,19 @@
+ansible.builtin.apt – Manages apt-packages — Ansible Documentation
+
+https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html
+
+community.windows.win_domain_user – Manages Windows Active Directory user accounts — Ansible Documentation
+
+https://docs.ansible.com/ansible/latest/collections/community/windows/win_domain_user_module.html#ansible-collections-community-windows-win-domain-user-module
+
+ansible.builtin.yum_repository – Add or remove YUM repositories — Ansible Documentation
+
+https://docs.ansible.com/ansible/latest/collections/ansible/builtin/yum_repository_module.html#examples
+
+ansible.builtin.yum – Manages packages with the yum package manager — Ansible Documentation
+
+https://docs.ansible.com/ansible/latest/collections/ansible/builtin/yum_module.html#examples
+
+YAML Syntax — Ansible Documentation
+
+https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
