@@ -1,6 +1,6 @@
 # Final-Project-SYS265
 
-Systems Administration 2: Final Group Project
+Systems Administration 2: Final Group Project Group 9
 
 You and your team are going to build a medium-sized enterprise from scratch for a client over a period of some weeks. Your team will demonstrate your integration efforts to a client manager as part of user acceptance testing in a series of milestones.
 
