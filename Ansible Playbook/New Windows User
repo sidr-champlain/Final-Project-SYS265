@@ -2,7 +2,6 @@
   community.windows.win_domain_user:
     name: Jerry
     firstname: Jerry
-    surname: Smith
     password: exampleaccount0
     state: present
     domain_username: group.local\jerry-basic
