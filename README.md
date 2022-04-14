@@ -43,7 +43,7 @@ Visit https://github.com/sidr-champlain/Final-Project-SYS265/wiki for the full b
 | MGMT1 | 172.16.1.14     | Server 2019 GUI, Manages DC1, DC2    |
 | W1, W2 | 172.16.1.100-150   | DHCP Client/Domain Joined .100-.150  |
 | MGMT2| Pick a free IP outside of the DHCP scope   | Ubuntu 20.04 Cloud Server and Ansible/Network Management |
-| DFS1, DFS2| Based on W1 and W2    | Distributed File System that Stores Domain User Profiles & Desktop   |
+| DFS1, DFS2| 100-150 from DHCP  | Distributed File System that Stores Domain User Profiles & Desktop   |
 | util | 172.16.1.15     | CentOS 7 and Domain Joined   |
 
 ![Machines](https://user-images.githubusercontent.com/71106886/163200083-fa71b471-7306-47dc-9cd9-48c6f8bbfa57.PNG)
