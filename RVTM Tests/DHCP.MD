@@ -14,4 +14,5 @@ Then Run ipconfig /renew to obtain a new address
 
 Confirm with ipconfig /all
 
+Turn off one of your DHCP Servers and run the above process again. This should prove that you have a redundant DHCP Server Service.
 
