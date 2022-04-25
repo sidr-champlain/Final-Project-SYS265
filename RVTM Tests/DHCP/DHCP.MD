@@ -14,4 +14,6 @@ Then Run ipconfig /renew to obtain a new address
 
 Confirm with ipconfig /all
 
+![DHCP](https://user-images.githubusercontent.com/71106886/165183574-be95a3e6-360d-4421-b61c-7d89e0939ed1.PNG)
 
+The above image proves that the other DHCP Server is up and running.
