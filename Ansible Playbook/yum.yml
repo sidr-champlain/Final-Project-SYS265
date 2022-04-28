@@ -1,14 +1,9 @@
-- name: Install latest version of Apache
-  hosts: httpd
-  yum:
-    name: httpd
-    state: latest
-
-
-- name: Download the nginx package only
-  hosts: nginx
-  yum:
-    name:
-      - nginx
-    state: latest
-    download_only: true
+- hosts: all
+  user: deployer
+  become: True
+  tasks:
+    - name: Install httpd package
+      yum:
+        name: httpd
+        state: present
+        update_cache: True
