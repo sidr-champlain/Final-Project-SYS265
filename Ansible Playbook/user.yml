@@ -1,9 +1,12 @@
-- name: Ensure user jerry is created and uses custom credentials to create the user
-  community.windows.win_domain_user:
-    name: jerry
-    firstname: jerry
-    password: exampleaccount0
-    state: present
-    domain_username: group.local\jerry-basic
-    domain_password: examplepassword
-    domain_server: dc01-group@group.local
+---
+- name: Ansible Create User
+  hosts: centos
+  tasks:
+    - name: Add the user 'clown' with a specific uid and a primary group of 'wheel'
+      ansible.builtin.user:
+        name: clown
+        comment: clown user
+        uid: 1077
+        group: wheel
+        createhome: yes
+        home: /home/clown
