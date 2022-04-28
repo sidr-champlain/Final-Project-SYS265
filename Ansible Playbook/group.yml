@@ -1,5 +1,0 @@
-- name: Add managed_by user
-  hosts: users
-  community.windows.win_domain_group:
-    name: Ansible Users
-    managed_by: Domain Admins
