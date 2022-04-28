@@ -1,5 +1,5 @@
 - name: Install apache
-  host: apache
+  hosts: apache
   apt:
     name: apache2
     upgrade: yes
