@@ -1,6 +1,9 @@
-- name: Install apache
-  hosts: apache
-  apt:
-    name: apache2
-    upgrade: yes
-    state: present
+- hosts: all
+  user: deployer
+  become: True
+  tasks: 
+    - name: Install apache
+      apt:
+        name: apache2
+        upgrade: yes
+        state: present
