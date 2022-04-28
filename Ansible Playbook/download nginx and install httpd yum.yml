@@ -1,10 +1,12 @@
 - name: Install latest version of Apache
+  host: httpd
   yum:
     name: httpd
     state: latest
 
 
 - name: Download the nginx package only
+  host: nginx
   yum:
     name:
       - nginx
