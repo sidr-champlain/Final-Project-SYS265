@@ -3,7 +3,7 @@
   user: deployer
   become: True
   tasks: 
-    - name: Install apache
+    - name: apache
       apt:
         name: apache2
         upgrade: yes
